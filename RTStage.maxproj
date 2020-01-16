@@ -2,8 +2,8 @@
 	"name" : "RTStage",
 	"version" : 1,
 	"creationdate" : 3649070906,
-	"modificationdate" : 3661508293,
-	"viewrect" : [ 537.0, 344.0, 300.0, 500.0 ],
+	"modificationdate" : 3661516287,
+	"viewrect" : [ 822.0, 290.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -59,6 +59,19 @@
 ,
 			"jit.gl.spoutsender.mxe64" : 			{
 				"kind" : "object",
+				"local" : 1
+			}
+
+		}
+,
+		"other" : 		{
+			"Icon.icns" : 			{
+				"kind" : "file",
+				"local" : 1
+			}
+,
+			"icon 8.ico" : 			{
+				"kind" : "file",
 				"local" : 1
 			}
 
