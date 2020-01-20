@@ -1,16 +1,16 @@
 {
-	"name" : "RTStage",
+	"name" : "RT UV",
 	"version" : 1,
 	"creationdate" : 3649070906,
-	"modificationdate" : 3661516287,
-	"viewrect" : [ 822.0, 290.0, 300.0, 500.0 ],
+	"modificationdate" : 3662377288,
+	"viewrect" : [ 274.0, 275.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"RTStage.maxpat" : 			{
+			"RT UV.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
